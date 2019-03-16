@@ -25,4 +25,4 @@ install.packages("rtweet")
 
 ## Author
 
-* **Alicia Hernandez** - [LinkedIn](https://www.linkedin.com/in/ahernandez93/) | [github.com/hernandezalicia](https://github.com/hernandezaliica)
+* **Alicia Hernandez** - [LinkedIn](https://www.linkedin.com/in/ahernandez93/) | [github.com/hernandezalicia](https://github.com/hernandezalicia)
