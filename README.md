@@ -26,7 +26,3 @@ install.packages("rtweet")
 ## Author
 
 * **Alicia Hernandez** - [LinkedIn](https://www.linkedin.com/in/ahernandez93/) | [github.com/hernandezalicia](https://github.com/hernandezaliica)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
